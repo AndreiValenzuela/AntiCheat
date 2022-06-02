@@ -4,7 +4,7 @@ games { 'gta5' }
 author 'AC by: AxyDevelopmentsAC'
 description 'AxyDevelopmentsAC'
 
-versioncheck 'https://raw.githubusercontent.com/thelindat/tokyocity_inventory/main/fxmanifest.lua'
+versioncheck 'https://raw.githubusercontent.com/AndreiValenzuela/AntiCheat/main/fxmanifest.lu'
 version '3.0'
 
 
