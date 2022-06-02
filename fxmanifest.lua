@@ -5,7 +5,7 @@ author 'AC by: AxyDevelopmentsAC'
 description 'AxyDevelopmentsAC'
 
 versioncheck 'https://raw.githubusercontent.com/thelindat/tokyocity_inventory/main/fxmanifest.lua'
-version '2.0'
+version '3.0'
 
 
 client_scripts {
